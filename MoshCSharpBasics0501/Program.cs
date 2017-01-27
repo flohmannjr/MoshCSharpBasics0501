@@ -11,7 +11,7 @@ namespace MoshCSharpBasics0501
 
         static void Main(string[] args)
         {
-            Console.Write("1 - Validate Input\n2 - Maximum Nunber\n3 - Orientation\n4 - Speed Limit\n\nChoose an exercise: ");
+            Console.Write("1 - Validate Input\n2 - Maximum Number\n3 - Orientation\n4 - Speed Limit\n\nChoose an exercise: ");
 
             switch (Convert.ToInt32(Console.ReadLine()))
             {
